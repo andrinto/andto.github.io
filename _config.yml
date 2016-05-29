@@ -8,7 +8,7 @@ logo:               'http://t9hacks.org/images/t9hacks_logo_transparent.png'
 background:         'http://orig06.deviantart.net/a380/f/2011/167/4/8/almacon_2012_background_by_sakurirainne-d3j3s4i.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://tora9.github.io
+url:                http://andto.github.io
 
 # Jekyll
 permalink:          /:title/
